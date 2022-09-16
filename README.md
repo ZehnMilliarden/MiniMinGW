@@ -1,0 +1,2 @@
+# MiniMinGW
+MinGW Mini Version
